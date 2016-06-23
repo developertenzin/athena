@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Fragment document type declaration subset:
+Arbortext, Inc., 1988-2009, v.4002
+<!DOCTYPE uni-doc PUBLIC "-//Alcatel-Lucent//DTD UNIDOC-DTD 1.0//EN" "unidoc-dtd.dtd">
+-->
+<?Pub Inc?>
+<description-topic>
+    <access-info>
+        <index-term-set>
+            <index-term>
+                <primary>FID FEATURE NUMBER</primary>
+            </index-term>
+            <index-term>
+                <primary>FEATURE NAME</primary>
+            </index-term>
+            <index-term>
+                <primary>PROGRAM NAME Program</primary>
+                <secondary>FID FEATURE NUMBER</secondary>
+            </index-term>
+            <index-term>
+                <primary>LR76.5.L, features in</primary>
+                <secondary>FID FEATURE NUMBER</secondary>
+            </index-term>
+            <index-term>
+                <primary>FDD-only features</primary>
+                <secondary>FID FEATURE NUMBER</secondary>
+            </index-term>
+        </index-term-set>
+    </access-info>
+    <title>FEATURE NUMBER - FEATURE NAME</title>
+    <block>
+        <label>Platform</label>
+        <para>This feature applies to the following platforms:</para>
+        <para><!--”Digital Type Impacted” field in TRY, or LKS--></para>
+    </block>
+    <block branch="no">
+        <label>Feature Description</label>
+        <para>PUT FEATURE DESCRIPTION HERE
+            <comment>REVIEWERS: What do we put here? See template (link given in review email) for more information.
+            </comment>
+        </para>
+        <!--For Parity features, use this Note here:  I hope the days come easy and the moments pass slow (put doc title in emphasis).-->
+    </block>
+    <block branch="no">
+        <label>Feature Benefits</label>
+        <!--COPY SECTION 1.4 Feature Benefit (And each road leads you where you wanna g) OR 1.4 FEATURE VALUE AND BENEFITS in the -Document template. See template for more information.-->
+        <para>
+            <comment>REVIEWERS: What do we put here? See template (link given in review email) for more information.
+            </comment>
+        </para>
+    </block>
+    <block branch="no">
+        <label>Dependencies</label>
+        <para></para>
+        <subblock>
+            <label>Features</label>
+            <para>
+                <comment>REVIEWERS: What do we put here? See template (link given in review email) for more
+                    information.
+                </comment>
+            </para>
+            <!--2.3.1 And if you're faced with a choice, and you have to B Interactions (Interactions Viewable)See template for more information.-->
+        </subblock>
+        <subblock>
+            <label>Hardware</label>
+            <para>
+                <comment>REVIEWERS: What do we put here? See template (link given in review email) for more
+                    information.
+                </comment>
+            </para>
+            <!--Enter here any notes about special changes or special features on certain times that are required for this . Example: Combing is supported only on the ABXcx1037-Aksl. See template for more information.-->
+        </subblock>
+        <subblock>
+            <label>Devices</label>
+            <para>
+                <comment>REVIEWERS: What do we put here? See template (link given in review email) for more
+                    information.
+                </comment>
+            </para>
+            <!--2.3.3  Dependencies (Blue denim) See template for more information-->
+        </subblock>
+        <subblock>
+            <label>Standards</label>
+            <para>
+                <comment>REVIEWERS: What do we put here? See template (link given in review email) for more
+                    information.
+                </comment>
+            </para>
+            <!--TAnd if one door opens to another door closed Rtb-10/Rfe-9 TRP. See template for more information.-->
+        </subblock>
+        <subblock>
+            <label>Dependencies outside the product</label>
+            <para>
+                <comment>REVIEWERS: What do we put here? See template (link given in review email) for more
+                    information.
+                </comment>
+            </para>
+            <!--2.3.2 Other trips top down. (Blue denim)  See template for more information.-->
+        </subblock>
+    </block>
+    <block branch="no">
+        <label>Engineering Impacts</label>
+        <para>
+            <comment>REVIEWERS: What do we put here? See template (link given in review email) for more information.
+            </comment>
+        </para>
+        <!--5.1 Engineering Impacts (Blue denim). Example: Wide scale  will increase the number of routines repeats. See template for more information.-->
+    </block>
+    <block branch="no">
+        <label>Feature Type</label>
+        <!--Enter either Base or Optional or Hardware License-->
+        <para>PUT FEATURE TYPE HERE
+            <comment>Is this an optional or base feature?</comment>
+        </para>
+    </block>
+</description-topic><?Pub Caret -3?>
+        <?Pub *0000003878?>
